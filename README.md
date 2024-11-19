@@ -1,5 +1,24 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+# Project Features
+- **Absolute paths**
+   - [ ]  yarn add --dev babel-plugin-module-resolver
+   - [ ] tsconfig.json
+   - [ ] babel.config.js
+
+- **Linting**
+  - [ ] eslint-plugin-prettier
+  - [ ] eslint-plugin-simple-import-sort
+  - [ ] eslint-plugin-prettier@5.2.1
+  - [ ] .prettierrc.js
+
+- **Shared transition between home image and details**
+  - [ ] react-native-reanimated/plug
+
+
+- **New native boxShadow implementation**
+
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
